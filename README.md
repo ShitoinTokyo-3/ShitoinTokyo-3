@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Juan Manuel 👋🙋‍♂️
 
 
 **ShitoinTokyo-3/ShitoinTokyo-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
