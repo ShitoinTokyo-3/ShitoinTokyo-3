@@ -1,3 +1,4 @@
+![console log](https://user-images.githubusercontent.com/90483875/163225610-661c3c79-46d7-4e66-b801-54a59759faaf.gif)
 <h1> Hi, I'm Juan Manuel 👋🙋‍♂️</h1>
 <h3>I'm 19 years old Colombian and i like videogames and programming. I am currently focused on full stack web development and learn new technologies to exploit them. I want share with you my skills. Welcome!! </h3>
 
